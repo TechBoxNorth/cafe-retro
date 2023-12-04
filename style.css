@@ -1,0 +1,20 @@
+#section-hot {
+  background-image: url(hot.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+
+#section-juicy {
+  background-image: url(juicy.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+
+#section-cosy {
+  background-image: url(cosy.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
